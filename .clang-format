@@ -1,6 +1,6 @@
 # Google C/C++ Code Style settings
 # https://clang.llvm.org/docs/ClangFormatStyleOptions.html
-# Author: Kehan Xue (kehan.xue@gmail.com)
+# Author: Kehan Xue, kehan.xue (at) gmail.com
 
 Language: Cpp
 BasedOnStyle: Google
