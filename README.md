@@ -1,11 +1,21 @@
-# clang-format
+# google-style-clang-format
 A .clang-format file for Google C++ Style.
 
-## Clang-Format Style Options
+## Tips
+
+If you use **clang-format 14+**, please open [this option](https://github.com/kehanXue/google-style-clang-format/blob/master/.clang-format#L63) to automatically add blank lines.
+
+```yaml
+SeparateDefinitionBlocks: Always   # Only support since clang-format 14
+```
+
+## Reference
+
+### Clang-Format Style Options
 
 - [CLANG-FORMAT STYLE OPTIONS documentation](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
 
-## Google C++ Style
+### Google C++ Style
 
 - [Guide](https://google.github.io/styleguide/cppguide.html)
 
